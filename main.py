@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import schedule
 import time
 import ponto  # Importando o arquivo ponto.py
